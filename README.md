@@ -32,5 +32,3 @@ Predictive Intelligence
 ## 🔗 Links
 - LinkedIn: https://www.linkedin.com/in/b-swati-198377187
 
-## 🔗 Links
-- LinkedIn: https://linkedin.com/in/yourprofile
