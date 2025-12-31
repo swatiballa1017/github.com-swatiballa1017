@@ -19,6 +19,7 @@ in ITSM, Service Catalog, CMDB, Automation, and Integrations.
 
 ## 📂 ServiceNow Projects
 👉 See repositories below
+1. IT Asset Access and Support Request Management
 
 ## 📜 Certifications
 - CSA (if applicable)
